@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #0445be;
+  color: #04bf8a;
 }
 a:hover {
   color: #6633ff;
@@ -49,7 +49,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: #0499ff;
+  color: #31eeb9;
 }
 
 header {
@@ -67,7 +67,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 4px solid #007664;
+  border: 2px solid #0445be;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -75,14 +75,14 @@ header .profile-image:hover {
 }
 .tag {
   background-color: #1c1c1c;
-  color:  #04bf8a;
+  color: #0445be;
   padding: 10px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
 } 
 .location {
-  background-color:#04bf8a;
+  background-color:#0445be;
   color:  white;
 }
 .card {
@@ -185,7 +185,7 @@ a.social:hover {
   .nav .name {
     display: block;
     margin-right: auto;
-    color: #0445be;
+    color: #04bf8a;
   }
 
   main {
