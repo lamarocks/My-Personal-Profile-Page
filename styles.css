@@ -18,7 +18,8 @@ a {
   color: #04bf8a;
 }
 a:hover {
-  color: #6633ff;
+  color:#31eeb9;
+  text-decoration: underline;
 }
 
 /* Section Styles */
@@ -114,6 +115,13 @@ ul.skills {
 
 .skills li:nth-child(odd) {
   background: #0445be;
+}
+
+#contact {
+  margin: auto;
+  max-width: 1200px;
+  text-align: center;
+  padding: 50px 40px 50px;
 }
 
 footer {
